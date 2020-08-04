@@ -69,7 +69,6 @@ struct TSPContentView: View {
                 .edgesIgnoringSafeArea(.all)
                 .zIndex(-1)
         }
-        
     }
     
 }
