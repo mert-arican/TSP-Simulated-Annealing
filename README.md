@@ -1,4 +1,4 @@
 # TSP-Simulated-Annealing
 Solving the Traveling Salesman Problem with Simulated Annealing
 
-[Demo]/Demo.gif
+[Demo]Images/Demo.gif
